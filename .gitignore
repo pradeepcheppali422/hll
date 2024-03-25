@@ -1,2 +1,2 @@
-*.txt
-/Test/*.xml
+#*.txt
+Test/*.txt
